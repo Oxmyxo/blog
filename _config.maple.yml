@@ -1,0 +1,58 @@
+# Header
+nav:
+  Posts: /archives
+  # Categories: /category
+  # Tags: /tag
+
+# favicon
+favicon: /images/favicon.jpg
+
+# logo
+logo: /images/logo.svg
+
+# links
+links:
+  Github: https://github.com/oxmyxo
+  # ZhiHu:
+  # Twitter:
+  # Weibo:
+
+# analytics
+google_analytics:
+baidu_analytics:
+
+# mathjax
+fancybox: true
+
+# mathjax
+mathjax: true
+
+# echarts
+echarts: true
+
+# busuanzi
+busuanzi: false
+
+# mermaid
+mermaid:
+  enable: true
+  # Available themes: default | dark | forest | neutral
+  theme: default
+
+# giscus
+giscus:
+  enable: true
+  repo: Oxmyxo/blog
+  repo_id: R_kgDORqL5Jw
+  category: General
+  category_id: DIC_kwDORqL5J84C9Oan
+  mapping: pathname
+
+# maple
+maple:
+  enable: true
+  # fall leaf count
+  count: 5
+  # 0-1
+  speed: 0.3
+
