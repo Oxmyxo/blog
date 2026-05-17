@@ -43,10 +43,10 @@ mermaid:
 giscus:
   enable: true
   repo: Oxmyxo/blog
-  repo_id: R_kgDORqL5Jw
+  repo_id: R_kgDOSfvY4Q
   category: General
-  category_id: DIC_kwDORqL5J84C9Oan
-  mapping: pathname
+  category_id: DIC_kwDOSfvY4c4C9Oix
+  mapping: title
 
 # maple
 maple:
