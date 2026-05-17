@@ -46,7 +46,7 @@ giscus:
   repo_id: R_kgDOSfvY4Q
   category: General
   category_id: DIC_kwDOSfvY4c4C9Oix
-  mapping: title
+  mapping: pathname
 
 # maple
 maple:
